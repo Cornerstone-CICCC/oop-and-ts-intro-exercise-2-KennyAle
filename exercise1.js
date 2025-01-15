@@ -6,7 +6,6 @@
 // 4. In the `Car` class, use the `super` keyword to call the parent constructor.
 // 5. Override the `getInfo` method in the `Car` class to include the number of doors in the string.
 
-
 class Vehicle {
   #make
   #model
